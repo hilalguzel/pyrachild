@@ -6,6 +6,7 @@
 
 
 #### PYRACHILD, San Francisco'da yaşanan bir laboratuvar patlamasının ardından dev örümceklerin istilasına karşı savaşan bir çocuğun hikayesini anlatan heyecan verici bir aksiyon oyunudur.
+<p>The final version of the game and how it is played: https://www.youtube.com/watch?v=25JBSx7Zfqo </p> 
 
 Itch io linki:
 https://lariix.itch.io/pyrachild
